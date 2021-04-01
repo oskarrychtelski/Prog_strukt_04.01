@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617278459 source:c:\users\oskar\desktop\programowanie strukturalne\4.2\4.2.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
